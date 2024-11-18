@@ -1,0 +1,30 @@
+p{
+  font-family:Edu AU VIC WA NT Pre, monospace;
+  margin:0;
+}
+.text_video-title{
+
+font-size: 18px;
+font-weight: bold;
+width:300px;
+line-height: 24px;  
+}
+.text_video-status{
+
+font-size: 14px;
+color: #606060;
+line-height: 20px;  
+}
+.text_shop{
+color: antiquewhite;
+background-color: rgb(227,65,64);
+padding: 1%;
+/* margin-bottom: 50px; */  
+}
+.text_shop_link{
+
+}
+.text_shop_link:hover{  
+text-decoration: underline;
+cursor:pointer;
+}

@@ -1,0 +1,41 @@
+button{  
+  color: white;
+  border:none;
+  height: 36px;
+  width: 100px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.but-subscribe{
+background-color: rgb(200, 0, 0);
+transition: opacity 0.15s;
+}
+
+.but-subscribe:hover{
+opacity: 0.5;
+}
+
+.but-subscribe:active{
+opacity: 0.2;
+}
+.but-join{
+background-color: rgb(255, 255, 255); 
+ border-style: solid; 
+border-color: rgb(24, 24, 159);
+border-width: 2px;
+color: rgb(24, 24, 159);
+
+}
+
+.but-tweet{
+background-color: rgb(17, 122, 203); 
+border-radius: 18px;
+font-weight: bold;
+font-size: 15px;
+}
+
+text{
+color: white;
+}
